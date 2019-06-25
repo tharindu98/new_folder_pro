@@ -1,0 +1,26 @@
+h1
+{
+	background-color: #8F8BFE;
+	padding : 10px ;
+}
+.log{
+    float: right;
+}
+.animation{
+
+  
+       animation-duration: 2s;
+        animation-name: slidein;
+} 
+      @keyframes slidein {
+        from {
+          margin-left: 100%;
+          width: 300%; 
+        }
+      
+        to {
+          margin-left: 0%;
+          width: 100%;
+        }
+      }
+}

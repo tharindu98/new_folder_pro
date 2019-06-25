@@ -1,0 +1,27 @@
+
+
+h1
+{
+    text-align: center;
+	background-color: #8F8BFE;
+	padding : 10px ;
+}
+
+
+
+    .registration{
+        width:300px;
+        margin:100px auto;
+    }
+    
+    input{
+    
+    display: block;
+    width: 100%;
+    padding: 5px; 
+    -webkit-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    font-size: 14px;
+    }
+    
